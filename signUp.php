@@ -10,7 +10,7 @@ if(isset($_FILES['resume']))
 {
 # Instantiate the client.
 $mgClient = new Mailgun($_ENV['MAILGUN_API']);
-$domain = $_ENV['MAILGUN_API'];
+$domain = $_ENV['MAILGUN_DOMAIN'];
 
 $uploadedFile = getcwd() . '/uploads/' . $_POST['last_name'] . '_' . $_FILES['resume']['name'];
 move_uploaded_file($_FILES['resume']['tmp_name'],$uploadedFile);
