@@ -77,7 +77,7 @@ else
 
 	                <button type="submit" class="Button ctct-button Button--block Button-secondary" data-enabled="enabled">Sign Up</button>
 	                <div>
-	                    <p class="ctct-form-footer">By submitting this form, you are granting: LaurieJJames.com, LLC, 310 S Philo Drive, Lafayette, Louisiana, 70506, United States, http://www.lauriejjames.com permission to email you.</p>
+	                    <p class="ctct-form-footer">By submitting this form, you are granting: LaurieJJames.com, LLC, 802 Robert Lee Circle, Lafayette, Louisiana, 70506, United States, http://www.lauriejjames.com permission to email you.</p>
 	                </div>
 	            </form>
 	        </div>
